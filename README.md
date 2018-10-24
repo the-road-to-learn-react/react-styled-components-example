@@ -1,6 +1,6 @@
 # React Styled Components Example
 
-[![Build Status](https://travis-ci.org/the-road-to-learn-react/react-styled-components-example.svg?branch=master)](https://travis-ci.org/the-road-to-learn-react/react-styled-components-example) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+[![Build Status](https://travis-ci.org/the-road-to-learn-react/react-styled-components-example.svg?branch=master)](https://travis-ci.org/the-road-to-learn-react/react-styled-components-example) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/the-road-to-learn-react/react-styled-components-example.svg)](https://greenkeeper.io/)
 
 * Found in [The Road to learn React](https://roadtoreact.com/)
 
