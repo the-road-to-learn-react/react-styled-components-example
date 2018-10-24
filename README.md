@@ -1,6 +1,6 @@
 # React Styled Components Example
 
-[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+[![Build Status](https://travis-ci.org/the-road-to-learn-react/react-styled-components-example.svg?branch=master)](https://travis-ci.org/the-road-to-learn-react/react-styled-components-example) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
 * Found in [The Road to learn React](https://roadtoreact.com/)
 
@@ -12,7 +12,7 @@
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/react-styled-components-example.git`
+* `git clone git@github.com:the-road-to-learn-react/react-styled-components-example.git`
 * `cd react-styled-components-example`
 * `npm install`
 * `npm start`
