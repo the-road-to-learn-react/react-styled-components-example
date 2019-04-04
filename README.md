@@ -4,12 +4,6 @@
 
 Showcasing how React works with Styled Components. [Read more about it.](https://www.robinwieruch.de/react-styled-components/)
 
-## Features
-
-* uses:
-  * React (create-react-app)
-  * Styled Components
-
 ## Installation
 
 * `git clone git@github.com:the-road-to-learn-react/react-styled-components-example.git`
